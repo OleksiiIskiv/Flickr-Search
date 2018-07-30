@@ -2,7 +2,7 @@
   "name": "flickr_search",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Silent777.github.io/FlickrSearch",
+  "homepage": "https://OleksiiIskiv.github.io/Flickr-Search",
   "dependencies": {
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
